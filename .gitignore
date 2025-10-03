@@ -6,3 +6,7 @@
 /CommandDispatcher/.vs
 /CommandDispatcher/bin/Debug/net7.0
 /CommandDispatcher/obj
+/ConcurrencyAndThreading/bin/Debug/net9.0
+/ConcurrencyAndThreading/ConcurrencyAndThreading.Tests/bin
+/ConcurrencyAndThreading/ConcurrencyAndThreading.Tests/obj
+/ConcurrencyAndThreading/obj
